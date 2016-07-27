@@ -1,0 +1,17 @@
+{
+  "name": "pwmm",
+  "description": "Galleta de la fortuna",
+  "main": "server.js",
+  "authors": [
+    "luis.cruzbenitez@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/LACB93/Fortune_Cookie",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

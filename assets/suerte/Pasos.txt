@@ -1,0 +1,3 @@
+Para importar este json en la base de datos
+usar el siguiente comando;
+mongoimport --db fortune --collection papers --type json --file suerte.json --jsonArray
