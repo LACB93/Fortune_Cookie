@@ -1,0 +1,19 @@
+{
+  "name": "pwmm",
+  "version": "1.0.0",
+  "description": "Galleta de la fortuna",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LACB93/Fortune_Cookie.git"
+  },
+  "author": "luis.cruzbenitez@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LACB93/Fortune_Cookie/issues"
+  },
+  "homepage": "https://github.com/LACB93/Fortune_Cookie#readme"
+}
