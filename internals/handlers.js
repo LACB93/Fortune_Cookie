@@ -1,7 +1,7 @@
 // Manejadores de rutas virtuales
 var fortune = require("./fortune");
 
-var fechaDeNacimiento = new Date(1993, 10, 23, 1, 45);
+var fechaDeNacimiento = new Date(1993, 10, 23, 1, 50);
 module.exports = {
     "/edad/luis-cruz": function (req, res) {
         res.writeHead(200, {
